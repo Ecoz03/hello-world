@@ -1,20 +1,20 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
 
-#Name:         
+# Name:         
 Jessie Sosniak
 
-#Assignment:   
+# Assignment:   
 1.4 Assignment
 
-#Date:         
+# Date:         
 07 Sep. 2025
 
-#Instructor:   
+# Instructor:   
 Mike Jensen
 
-#Email:        
+# Email:        
 jessos3674@students.ecpi.edu
 
-#Status:       
+# Status:       
 Needs coffee
